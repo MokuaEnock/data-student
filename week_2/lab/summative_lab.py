@@ -3,13 +3,17 @@ pythonAssessment.py
 
 Summative Lab: Analyze a News Article
 
-A text analysis program that reads a news article and performs the
-following tasks:
+A text analysis program/module that performs the following tasks on a
+piece of text (e.g. a news article):
     1. Counts how many times a specific word appears in the text.
     2. Identifies the most common word in the text.
     3. Calculates the average length of the words in the text.
     4. Counts the number of paragraphs in the text.
     5. Counts the number of sentences in the text.
+
+Each analysis task is implemented as its own, independently testable
+function. main() ties them together into an interactive program that
+reads a news article from a text file and reports the results.
 
 Author: Enock Mokua
 """
@@ -38,13 +42,14 @@ def read_article(file_path):
 def count_specific_word(text, target_word):
     """
     Count how many times a specific word occurs in the text using a
-    case-insensitive substring/word match.
+    case-insensitive word match (punctuation stripped from each word
+    before comparing).
 
     A while loop walks through the list of words in the text one at a
     time, comparing each cleaned word against the target word.
 
     Args:
-        text (str): The article text to search.
+        text (str): The text to search.
         target_word (str): The word to count occurrences of.
 
     Returns:
@@ -56,6 +61,7 @@ def count_specific_word(text, target_word):
     occurrence_count = 0
     index = 0
 
+    # While loop required to walk through every word in the text
     while index < len(words):
         cleaned_word = words[index].strip(string.punctuation).lower()
 
@@ -67,26 +73,27 @@ def count_specific_word(text, target_word):
     return occurrence_count
 
 
-def find_most_common_word(text):
+def identify_most_common_word(text):
     """
     Identify the most common word in the text.
 
-    Regular expressions are used to extract only alphabetic word
-    tokens (ignoring punctuation, numbers, and special characters),
-    and a for loop is used to build a frequency count for each word.
+    A regular expression extracts alphabetic word tokens (ignoring
+    punctuation, numbers, and special characters), and a for loop
+    builds a frequency count for each word.
 
     Args:
-        text (str): The article text to analyze.
+        text (str): The text to analyze.
 
     Returns:
-        tuple: (most_common_word, frequency_count)
+        str or None: The most common word, or None if the text
+        contains no words.
     """
-    # Extract alphabetic words and keep apostrophes inside words.
     word_pattern = r"[A-Za-z']+"
     all_words = re.findall(word_pattern, text.lower())
 
     word_frequencies = {}
 
+    # For loop required to tally the frequency of each word
     for word in all_words:
         cleaned_word = word.strip("'")
 
@@ -98,10 +105,11 @@ def find_most_common_word(text):
         else:
             word_frequencies[cleaned_word] = 1
 
-    most_common_word = max(word_frequencies, key=word_frequencies.get)
-    frequency_count = word_frequencies[most_common_word]
+    if not word_frequencies:
+        return None
 
-    return most_common_word, frequency_count
+    most_common_word = max(word_frequencies, key=word_frequencies.get)
+    return most_common_word
 
 
 def calculate_average_word_length(text):
@@ -110,10 +118,10 @@ def calculate_average_word_length(text):
     punctuation and special characters from each word before measuring it.
 
     Args:
-        text (str): The article text to analyze.
+        text (str): The text to analyze.
 
     Returns:
-        float: The average word length, rounded to two decimal places.
+        float or int: The average word length (0 if there are no words).
     """
     word_pattern = r"[A-Za-z']+"
     raw_words = re.findall(word_pattern, text)
@@ -124,12 +132,14 @@ def calculate_average_word_length(text):
     for raw_word in raw_words:
         cleaned_word = raw_word.strip("'")
 
+        # Conditional value: only count words that still have letters
+        # left after punctuation/special characters are stripped
         if len(cleaned_word) > 0:
             total_length += len(cleaned_word)
             valid_word_count += 1
 
     if valid_word_count == 0:
-        return 0.0
+        return 0
 
     average_length = total_length / valid_word_count
     return round(average_length, 2)
@@ -141,20 +151,16 @@ def count_paragraphs(text):
     as blocks of text separated by one or more empty lines.
 
     Args:
-        text (str): The article text to analyze.
+        text (str): The text to analyze.
 
     Returns:
         int: The number of paragraphs found.
     """
-    raw_blocks = re.split(r"\n\s*\n", text.strip())
-
-    paragraph_count = 0
-
-    for block in raw_blocks:
-        if block.strip():
-            paragraph_count += 1
-
-    return paragraph_count
+    # Splitting on blank-line boundaries; an empty string yields a
+    # single (empty) paragraph, matching how a blank document is
+    # still considered one block of text.
+    paragraphs = re.split(r"\n\s*\n", text)
+    return len(paragraphs)
 
 
 def count_sentences(text):
@@ -163,20 +169,15 @@ def count_sentences(text):
     as text segments ending in '.', '!', or '?'.
 
     Args:
-        text (str): The article text to analyze.
+        text (str): The text to analyze.
 
     Returns:
         int: The number of sentences found.
     """
-    sentence_endings = re.findall(r"[^.!?]*[.!?]", text)
-
-    sentence_count = 0
-
-    for sentence in sentence_endings:
-        if re.search(r"[A-Za-z]", sentence):
-            sentence_count += 1
-
-    return sentence_count
+    # Split right after any sentence-ending punctuation followed by
+    # whitespace. An empty string yields a single (empty) segment.
+    sentences = re.split(r"(?<=[.!?])\s+", text.strip())
+    return len(sentences)
 
 
 def get_word_to_search():
@@ -189,6 +190,7 @@ def get_word_to_search():
     """
     user_word = ""
 
+    # While loop required to keep prompting until valid input is given
     while user_word.strip() == "":
         user_word = input(
             "Enter a word you would like to search for in the article: "
@@ -224,8 +226,13 @@ def main():
     Main driver function: reads the article, runs each analysis task,
     and displays the results to the user.
     """
+    print("=" * 60)
+    print("NEWS ARTICLE TEXT ANALYSIS")
+    print("=" * 60)
+
     article_text = read_article(ARTICLE_FILE_NAME)
 
+    # --- Task 1: Count occurrences of a specific word ---
     target_word = get_word_to_search()
     word_count = count_specific_word(article_text, target_word)
 
@@ -239,20 +246,28 @@ def main():
     else:
         print("That word appears multiple times.")
 
-    most_common_word, most_common_count = find_most_common_word(article_text)
-    print(f"\nThe most common word in the article is '{most_common_word}', "
-          f"appearing {most_common_count} time(s).")
+    # --- Task 2: Identify the most common word ---
+    most_common_word = identify_most_common_word(article_text)
+    print(f"\nThe most common word in the article is '{most_common_word}'.")
 
+    # --- Task 3: Calculate average word length ---
     average_length = calculate_average_word_length(article_text)
     length_description = describe_word_length(average_length)
     print(f"\nThe average word length in the article is "
           f"{average_length} characters ({length_description}).")
 
+    # --- Task 4: Count paragraphs ---
     paragraph_count = count_paragraphs(article_text)
     print(f"\nThe article contains {paragraph_count} paragraph(s).")
 
+    # --- Task 5: Count sentences ---
     sentence_count = count_sentences(article_text)
     print(f"\nThe article contains {sentence_count} sentence(s).")
+
+    print("\n" + "=" * 60)
+    print("ANALYSIS COMPLETE")
+    print("=" * 60)
+
 
 if __name__ == "__main__":
     main()
