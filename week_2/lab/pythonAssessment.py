@@ -5,13 +5,11 @@ ARTICLE_FILE_NAME = "news_article.txt"
 
 
 def read_article(file_path):
-    """Read a text file into a string."""
     with open(file_path, "r", encoding="utf-8") as article_file:
         return article_file.read()
 
 
 def count_specific_word(text, target_word):
-    """Count occurrences of target_word in text."""
     words = text.split()
     target_word_clean = target_word.strip(string.punctuation).lower()
 
@@ -28,7 +26,6 @@ def count_specific_word(text, target_word):
 
 
 def identify_most_common_word(text):
-    """Return the most common word in text, or None if there are none."""
     all_words = re.findall(r"[A-Za-z']+", text.lower())
 
     word_frequencies = {}
@@ -48,7 +45,6 @@ def identify_most_common_word(text):
 
 
 def calculate_average_word_length(text):
-    """Return the average word length in text, excluding punctuation."""
     raw_words = re.findall(r"[A-Za-z']+", text)
 
     total_length = 0
@@ -67,19 +63,16 @@ def calculate_average_word_length(text):
 
 
 def count_paragraphs(text):
-    """Count paragraphs, defined as blocks separated by blank lines."""
     paragraphs = re.split(r"\n\s*\n", text)
     return len(paragraphs)
 
 
 def count_sentences(text):
-    """Count sentences, defined as segments ending in . ! or ?"""
     sentences = re.split(r"(?<=[.!?])\s+", text.strip())
     return len(sentences)
 
 
 def get_word_to_search():
-    """Prompt the user for a non-empty word to search for."""
     user_word = ""
 
     while user_word.strip() == "":
@@ -91,7 +84,6 @@ def get_word_to_search():
 
 
 def describe_word_length(average_length):
-    """Describe average word length as short, moderate, or long."""
     if average_length < 4:
         return "short on average"
     elif average_length < 6:
@@ -101,10 +93,6 @@ def describe_word_length(average_length):
 
 
 def main():
-    print("=" * 60)
-    print("NEWS ARTICLE TEXT ANALYSIS")
-    print("=" * 60)
-
     article_text = read_article(ARTICLE_FILE_NAME)
 
     target_word = get_word_to_search()
@@ -127,10 +115,6 @@ def main():
 
     print(f"\nParagraph count: {count_paragraphs(article_text)}")
     print(f"Sentence count: {count_sentences(article_text)}")
-
-    print("\n" + "=" * 60)
-    print("ANALYSIS COMPLETE")
-    print("=" * 60)
 
 
 if __name__ == "__main__":
