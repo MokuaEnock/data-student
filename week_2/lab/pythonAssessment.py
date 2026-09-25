@@ -1,13 +1,11 @@
 import re
 import string
 
-ARTICLE_FILE_NAME = "news_article.txt"
-
+article_file = "news_article.txt"
 
 def read_article(file_path):
     with open(file_path, "r", encoding="utf-8") as article_file:
         return article_file.read()
-
 
 def count_specific_word(text, target_word):
     words = text.split()
@@ -93,7 +91,7 @@ def describe_word_length(average_length):
 
 
 def main():
-    article_text = read_article(ARTICLE_FILE_NAME)
+    article_text = read_article(article_file)
 
     target_word = get_word_to_search()
     word_count = count_specific_word(article_text, target_word)
