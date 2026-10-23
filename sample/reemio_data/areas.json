@@ -1,0 +1,3477 @@
+[
+  {
+    "id": "3bf8ba46-c319-4d9f-b517-5dc7a50a8b2c",
+    "name": "Mlolongo",
+    "slug": "mlolongo",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/0e297237-9f5f-42be-b70a-ea38744f435d-20260810_090307520_iOS_small.webp",
+    "imageBlurHash": "UdDd0J%1jZt7cIxtoeayx^xuodR,R-flt5Wr",
+    "subRegionId": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+    "description": "",
+    "createdAt": "2026-08-12T10:01:55.444Z",
+    "updatedAt": "2026-10-07T08:47:42.670Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+      "name": "Athi River"
+    },
+    "region": {
+      "id": "9825d201-707a-49bc-9e9d-ebfc3108262f",
+      "name": "Machakos"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 2
+  },
+  {
+    "id": "95c28311-7114-4620-a451-a217a86ee5e0",
+    "name": "Athi River",
+    "slug": "athi-river",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/d0e936a9-e7d9-47fe-9cda-52bfb852c363-20260722_134259886_iOS_small.webp",
+    "imageBlurHash": "UaFiS:%MW?t7yGt8t7j]E9ayxajtD+obobWX",
+    "subRegionId": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+    "description": "",
+    "createdAt": "2026-07-27T11:55:42.462Z",
+    "updatedAt": "2026-07-27T11:55:45.810Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+      "name": "Athi River"
+    },
+    "region": {
+      "id": "9825d201-707a-49bc-9e9d-ebfc3108262f",
+      "name": "Machakos"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 4
+  },
+  {
+    "id": "137d6c24-ef1e-4574-9d74-9f3c8e6da35f",
+    "name": "Kirigiti",
+    "slug": "kirigiti",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/7319ad58-6953-4e01-a04e-fca617874979-20260520_104404544_iOS_small.webp",
+    "imageBlurHash": "UgGb}B?Z%Max%%xos+t8x^xus7t8%Nxvn}WB",
+    "subRegionId": "52ecd24c-3d83-423f-955e-742c72fefe9d",
+    "description": "",
+    "createdAt": "2026-05-22T07:34:54.199Z",
+    "updatedAt": "2026-05-22T07:34:56.697Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "52ecd24c-3d83-423f-955e-742c72fefe9d",
+      "name": "Kiambu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 15
+  },
+  {
+    "id": "ab3034f5-59c9-4abe-9eae-e281671eb178",
+    "name": "Lenana",
+    "slug": "lenana",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/12a59886-0c22-40fb-a3fc-d52c54b2a548-20260516_095010855_iOS_small.webp",
+    "imageBlurHash": "UeD,ZsxUohRj.AxZbHWCbJofaxtSa~WAayt8",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "",
+    "createdAt": "2026-05-20T10:56:53.925Z",
+    "updatedAt": "2026-05-20T10:56:56.577Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "40c8eef5-e635-4c5d-b621-be18c99ae6be",
+    "name": "Kiambu",
+    "slug": "kiambu",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/aba6c0bb-8618-40a8-bfd9-23d6e07f4feb-20260513_094632685_iOS_small.webp",
+    "imageBlurHash": "UxF?O+xvt7t7?wozofa#bdRjayWBofRia#of",
+    "subRegionId": "52ecd24c-3d83-423f-955e-742c72fefe9d",
+    "description": "",
+    "createdAt": "2026-05-18T08:49:31.437Z",
+    "updatedAt": "2026-05-18T08:49:33.953Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "52ecd24c-3d83-423f-955e-742c72fefe9d",
+      "name": "Kiambu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 25
+  },
+  {
+    "id": "c60ec2eb-04d1-4bd3-8655-7cf840e255e5",
+    "name": "Makongeni",
+    "slug": "makongeni",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/331fe925-e30c-47aa-962b-dca873aa029b-20260505_104823817_iOS_small.webp",
+    "imageBlurHash": "UGEyS%5GMaDgX=V=VVIUDiVpjEb|-;s:NHNM",
+    "subRegionId": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+    "description": "Makongeni, Thika",
+    "createdAt": "2026-05-06T07:18:36.381Z",
+    "updatedAt": "2026-06-03T15:28:23.085Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+      "name": "Thika"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 16
+  },
+  {
+    "id": "bfe6d2c9-9eb2-4ac5-b238-66adf6f02766",
+    "name": "Section 10",
+    "slug": "section-10",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/9da35b1b-e4f3-41e0-bb21-73adc6c22656-20260501_112222641_iOS_small.webp",
+    "imageBlurHash": "UiEWLNt7og%M?wtSWAt7%NozRhofx^t6ofj?",
+    "subRegionId": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+    "description": "Section 10",
+    "createdAt": "2026-05-06T07:17:19.205Z",
+    "updatedAt": "2026-06-03T15:28:22.776Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+      "name": "Thika"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "9f612fa1-e85f-4fa9-939d-5c0e9a747f16",
+    "name": "CBD Nairobi",
+    "slug": "cbd-nairobi",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/5b45c0be-ff05-4d26-93ab-04f3898a3824-20260409_084216614_iOS_(1)_small.webp",
+    "imageBlurHash": "UWCjYG%hNKf,?wtRM_V@$|t7V?adadj@ocj=",
+    "subRegionId": "95adac5e-c147-441c-b986-ec31e02821f9",
+    "description": "CBD",
+    "createdAt": "2026-04-16T10:43:36.669Z",
+    "updatedAt": "2026-06-03T15:28:20.645Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "95adac5e-c147-441c-b986-ec31e02821f9",
+      "name": "Nairobi, CBD"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "abe49c68-1207-4989-ad20-404778e87a93",
+    "name": "Githunguri",
+    "slug": "githunguri",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/7f67249b-b11e-40c9-86c1-acea074b45f6-12_small.webp",
+    "imageBlurHash": "UdE{t]RjR.W?AhWYofWFR5ozocadRioIjEs,",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2026-04-16T09:59:15.908Z",
+    "updatedAt": "2026-08-10T13:40:12.529Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 6
+  },
+  {
+    "id": "dec02d42-d5b4-408f-9353-beec4f13bd0d",
+    "name": "Maji Mazuri",
+    "slug": "maji-mazuri",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/6bc692c9-3093-4105-bb53-c09f94e444d9-WhatsApp_Image_2026-08-12_at_14.15.08_small.webp",
+    "imageBlurHash": "U$Dn3GROadaylCV@jrfls;bIkCkCV?ayj[ay",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "",
+    "createdAt": "2026-03-21T12:44:32.435Z",
+    "updatedAt": "2026-08-12T18:55:29.236Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 2
+  },
+  {
+    "id": "43f6c3b5-9447-448f-a17a-7cbb5f9026da",
+    "name": "Seasons",
+    "slug": "seasons",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/40c95716-17eb-48d4-b963-73d68be61a5d-4_(1)_small.webp",
+    "imageBlurHash": "UgJks2nzM{xuyGV@oJRk~qxvM{axayxvbHjs",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "",
+    "createdAt": "2026-03-21T08:18:50.273Z",
+    "updatedAt": "2026-08-10T14:04:58.397Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 13
+  },
+  {
+    "id": "fbbdf966-e81f-4700-874f-4799080495a6",
+    "name": "Gachie",
+    "slug": "gachie",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/db1d24c5-86eb-4e48-ba4c-2fb47d6654a1-WhatsApp_Image_2026-03-16_at_15.34.21_small.webp",
+    "imageBlurHash": "UTGkwQsmD$%2Gwa}R4X8xvkqV?adw[%NR*aK",
+    "subRegionId": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+    "description": "",
+    "createdAt": "2026-03-18T09:44:07.322Z",
+    "updatedAt": "2026-06-03T15:28:24.645Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+      "name": "Kiambaa"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 11
+  },
+  {
+    "id": "bed75695-b52a-4569-a199-923136f1c791",
+    "name": "Rainbow",
+    "slug": "rainbow",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/e4a1c261-66a3-4aa5-99b0-9f2384843ab4-Kihunguro_(1)_small.webp",
+    "imageBlurHash": "U*F?0BS7kEtR%%NHWXt7S$ROjEoJoIads:WC",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2026-03-18T08:19:39.830Z",
+    "updatedAt": "2026-06-03T15:28:22.869Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "6743b286-d07a-4fad-9eb2-defa5b03bffc",
+    "name": "Northlands",
+    "slug": "northlands",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/3652e6dc-dbc1-45fe-af87-ad4517e25469-IMG_2268_small.webp",
+    "imageBlurHash": "UqD,fyt8x^t8xzo#kEogM}j[acayW9f6acj?",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2026-03-16T06:56:41.613Z",
+    "updatedAt": "2026-07-20T10:30:16.065Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "2e8b65ec-e0ea-42f3-acd1-abcb084a91d0",
+    "name": "Imara Daima",
+    "slug": "imara-daima",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/8052b2f9-6c6e-4de5-88f2-bd371aa81176-2_small.webp",
+    "imageBlurHash": "UaEV%5roROxZOLr:$|xWKR$~jCRiI;SNoet6",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Imara Daima\r\n",
+    "createdAt": "2026-03-11T05:04:09.366Z",
+    "updatedAt": "2026-06-03T15:28:16.768Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 7
+  },
+  {
+    "id": "503172a4-b45a-4f13-9ce9-042d03c8e97c",
+    "name": "Banana",
+    "slug": "banana",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/fe263e3f-478c-4b95-b62b-7ed964e220c2-10_small.webp",
+    "imageBlurHash": "UVHxKfU[R,VqyZRiV?n#9cozt1t7I^W.xsWA",
+    "subRegionId": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+    "description": "Banana",
+    "createdAt": "2026-03-06T08:34:41.487Z",
+    "updatedAt": "2026-06-03T15:28:18.184Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+      "name": "Kiambaa"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 12
+  },
+  {
+    "id": "305b7f45-ab53-46a0-bcf4-ae6819c8e463",
+    "name": "Garden City",
+    "slug": "garden-city",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c548a95e-b92e-4194-bdc5-ec54ee1123d4-Garden_City_small.webp",
+    "imageBlurHash": "U%D]_RISM_WAyGi]RijYN}obsRaxRoofsSWV",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Garden City",
+    "createdAt": "2026-02-10T08:16:58.926Z",
+    "updatedAt": "2026-06-03T15:28:16.788Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 40
+  },
+  {
+    "id": "e8015d45-cd9e-469c-84eb-9b1a89335f7f",
+    "name": "kiamumbi",
+    "slug": "kiamumbi",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/6ed3cdf1-a1ca-4a5f-aede-df4e87c2d55d-20260323_130429480_iOS_small.webp",
+    "imageBlurHash": "UqJ@?_xuIoW=%%S4s,of?cxaNGofx_ofofWC",
+    "subRegionId": "028e6d31-71da-4304-afd8-d9d17df2889d",
+    "description": "",
+    "createdAt": "2026-01-08T07:52:37.770Z",
+    "updatedAt": "2026-07-20T10:31:34.458Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "028e6d31-71da-4304-afd8-d9d17df2889d",
+      "name": "Kahawa west"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "33865033-21df-4b30-b3b1-50ddc5f72ed4",
+    "name": "Mountain View ",
+    "slug": "mountain-view",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/d04e417f-a851-4f36-8f2f-c04f1a52c90b-8_small.webp",
+    "imageBlurHash": "UnGlM9b0NI%Lt:WERlxsSkRjR+s:M|jZWBWX",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Mountain View",
+    "createdAt": "2026-01-04T09:53:01.338Z",
+    "updatedAt": "2026-06-03T15:28:17.066Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 7
+  },
+  {
+    "id": "40021bc8-5d35-40ac-b14e-0688bbb9e982",
+    "name": "Nairobi West",
+    "slug": "nairobi-west",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/1a1ff30a-33ce-4524-8aef-77d86427cd21-f6d827e8-ec58-4e2b-a500-8d67909e010c-20251211_091133790_iOS_small.webp",
+    "imageBlurHash": "UTG+gq^+%Mxv_4x]tRt7E1ofogoz-;xut7og",
+    "subRegionId": "97399974-cf51-40d5-9bf6-edec7ef17423",
+    "description": "Nairobi West",
+    "createdAt": "2026-01-02T14:33:07.452Z",
+    "updatedAt": "2026-06-03T15:28:17.387Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "97399974-cf51-40d5-9bf6-edec7ef17423",
+      "name": "Langata"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "bf17b841-0e25-490a-9477-cb210d21414d",
+    "name": "Satellite",
+    "slug": "satellite",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/598d2f5f-e243-4f14-a9ad-88efaec4b512-7_small.webp",
+    "imageBlurHash": "UCH2G*00L4?E0V8_s;jX00%M+?E3%3%MS4I=",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "Satellite",
+    "createdAt": "2025-12-23T06:17:43.540Z",
+    "updatedAt": "2026-06-03T15:28:22.812Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 12
+  },
+  {
+    "id": "0ca1f502-43a8-49a6-af22-4bcdb5579668",
+    "name": "USIU",
+    "slug": "usiu",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/ca5ef860-ae41-4635-8953-641d4706fbd1-3_small.webp",
+    "imageBlurHash": "UKE.|b.AyF%hO^.Ax_tTOYRps=Nbj^X6M|Rj",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "USIU",
+    "createdAt": "2025-12-16T06:20:59.949Z",
+    "updatedAt": "2026-06-03T15:28:15.709Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 5
+  },
+  {
+    "id": "be2ffb16-02c3-484b-a033-24f1f7e536b8",
+    "name": "Car Wash",
+    "slug": "car-wash",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/9df25b69-c391-445d-98f6-776a962cdca1-3_small.webp",
+    "imageBlurHash": "UaIg$X$*t.xuCAf+x^o#-VWYn$t6a}WCjEay",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Car Wash",
+    "createdAt": "2025-12-16T06:18:41.809Z",
+    "updatedAt": "2026-06-03T15:28:22.876Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 12
+  },
+  {
+    "id": "1a9b96f2-fff1-46cb-ab35-f7f26a4cf8f7",
+    "name": "Kwa Ndege",
+    "slug": "kwa-ndege",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/ec8d8b60-c472-47eb-8d9b-3a4296b1cc37-1_small.webp",
+    "imageBlurHash": "UqE|YwxtgPkX%%t6g4bINHofV?n~M|Wrr;ad",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Kwa Ndege",
+    "createdAt": "2025-12-16T06:18:06.188Z",
+    "updatedAt": "2026-06-03T15:28:16.611Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 10
+  },
+  {
+    "id": "6c05b1de-f58d-4ec8-abbf-0a29583021f1",
+    "name": "Kitambaa",
+    "slug": "kitambaa",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/a3b9c6c1-aee5-4e7b-91d7-4feb9dc9532d-2_small.webp",
+    "imageBlurHash": "U+I=7N%2ozofyZxtoffkx^t7V@ofWBjZWAj[",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2025-12-16T06:05:58.049Z",
+    "updatedAt": "2026-07-20T11:12:09.475Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "50626951-e878-4dba-9dd4-b2a699ed8a3a",
+    "name": "Toll",
+    "slug": "toll",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/af1b37c4-6626-4d40-a62b-3d64c63f5211-16_small.webp",
+    "imageBlurHash": "ULIER[XoXpxV1BWG%Nnz-BIAM{ROnND%adIV",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Toll",
+    "createdAt": "2025-12-16T06:02:23.573Z",
+    "updatedAt": "2026-06-03T15:28:18.125Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 10
+  },
+  {
+    "id": "17a8b55b-8d11-45a2-8854-c60433154908",
+    "name": "Biashara",
+    "slug": "biashara",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/ccc4ebe0-57bf-4ad7-9f27-41588569a0cf-5_small.webp",
+    "imageBlurHash": "U+I=DcxtRjWB.At6jsWC%Nt7ofofadflkCkC",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2025-12-16T05:55:27.285Z",
+    "updatedAt": "2026-07-20T11:13:23.444Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "016ac105-0b81-49e2-b2e5-ec3bd2cceb77",
+    "name": "Murera",
+    "slug": "murera",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/794584e4-e3d3-45eb-828d-7ef6c03a38bf-20260325_114623906_iOS_(1)_small.webp",
+    "imageBlurHash": "UYHxQv%MxvbcBtt7t7j]-qxuRjoei^ogjEWB",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2025-12-16T05:54:42.567Z",
+    "updatedAt": "2026-07-20T11:18:04.903Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "5dc18350-8641-469f-b4ca-028178b6e6f9",
+    "name": "Zebra",
+    "slug": "zebra",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c1cfabca-4b19-4050-941b-5005d8681c43-20260318_125220300_iOS_small.webp",
+    "imageBlurHash": "UOJQ+kxuOrxY.As,S~W??axB%3SiE,M{-VoL",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "",
+    "createdAt": "2025-12-16T05:51:31.279Z",
+    "updatedAt": "2026-07-20T11:21:50.053Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "6d76d996-2c83-4e82-a0a7-e80a5abbb7af",
+    "name": "Syokimau",
+    "slug": "syokimau",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/5f00a796-00ea-4a84-b92e-7a6ec309265a-20260401_103601744_iOS_small.webp",
+    "imageBlurHash": "UpH.Qgi^WXs.u6WAxZoLXUW?s+WXkXS%j]WB",
+    "subRegionId": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+    "description": "",
+    "createdAt": "2025-12-16T05:51:01.491Z",
+    "updatedAt": "2026-07-20T11:23:41.750Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+      "name": "Athi River"
+    },
+    "region": {
+      "id": "9825d201-707a-49bc-9e9d-ebfc3108262f",
+      "name": "Machakos"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 31
+  },
+  {
+    "id": "1ec71da3-bb3b-4f4b-937f-faf9b782cd12",
+    "name": "Mowlem",
+    "slug": "mowlem",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/d67b35b5-8e33-4a47-800d-349c2025479e-20260402_101810729_iOS_small.webp",
+    "imageBlurHash": "UcF6w$%LXTSQBaoHf+Wr%hV@eloc9FR.n#jE",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T05:48:52.538Z",
+    "updatedAt": "2026-07-20T11:33:33.194Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "a53827ad-9be9-42e8-ad45-2ed8b1d8b256",
+    "name": "Spine Road",
+    "slug": "spine-road",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/5e3fe7d8-bc50-44fa-8beb-0e460e823645-20260402_093058443_iOS_small.webp",
+    "imageBlurHash": "UgDwN|OuROV?t:R:t7ofNMWAf,ofozRiaeWB",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T05:35:24.231Z",
+    "updatedAt": "2026-07-20T11:36:19.888Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "8ac5f36e-0949-4f63-812d-e3a1656791fa",
+    "name": "Sabaki",
+    "slug": "sabaki",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/8fb242de-ef98-4fbc-ad19-d5b003352605-20251016_115952925_iOS_small.webp",
+    "imageBlurHash": "UWEWONIU%MR.?wIUs:RjR+MxadofozfRt6xu",
+    "subRegionId": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+    "description": "",
+    "createdAt": "2025-12-16T05:34:46.517Z",
+    "updatedAt": "2026-07-20T11:37:43.453Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "a71b3125-5cb8-4d2d-a7a8-f0231ea8b275",
+      "name": "Athi River"
+    },
+    "region": {
+      "id": "9825d201-707a-49bc-9e9d-ebfc3108262f",
+      "name": "Machakos"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "1684fbcd-ec38-48c3-a11c-174f198b9a83",
+    "name": "Ruai",
+    "slug": "ruai",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c7b55d89-0d49-4f50-ba44-723304cef040-1_small.webp",
+    "imageBlurHash": "UTE|G7%NM|S7GKIXRjogxZR-RPs8D%Rie-s:",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Ruair",
+    "createdAt": "2025-12-16T05:32:20.532Z",
+    "updatedAt": "2026-06-03T15:28:16.014Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 5
+  },
+  {
+    "id": "07df469f-3a03-48f6-a39a-484a09c00a4e",
+    "name": "Mihango",
+    "slug": "mihango",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/fdcdc95b-80be-4a91-a98f-8218b2753760-20260330_103247611_iOS_small.webp",
+    "imageBlurHash": "UTGcJy?wtTxuTMxvt7s.xwR:NHn#WEIoWCaJ",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T05:30:49.820Z",
+    "updatedAt": "2026-07-20T11:40:55.025Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "ed8039ab-65ed-416b-aa83-616057036d39",
+    "name": "Ngong",
+    "slug": "ngong",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/78afc172-0901-4bc8-b891-bf5c2d62947c-WhatsApp_Image_2026-07-20_at_14.43.24_small.webp",
+    "imageBlurHash": "URL#X{-=RjtR~qxtfia#M|oJj[WC-=j]j[az",
+    "subRegionId": "d568bef6-88df-4862-9f92-d757a0425b8c",
+    "description": "",
+    "createdAt": "2025-12-16T05:29:57.829Z",
+    "updatedAt": "2026-07-20T11:47:38.935Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "d568bef6-88df-4862-9f92-d757a0425b8c",
+      "name": "Kajiado South"
+    },
+    "region": {
+      "id": "eba5dd12-b2ca-40e3-8bcd-4d9270c876b7",
+      "name": "Kajiado"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 15
+  },
+  {
+    "id": "ba757682-4763-43be-aaa3-42d0a897dc09",
+    "name": "Kiserian",
+    "slug": "kiserian",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/e8a2019d-3896-4b59-9d03-b0000298b7a4-20250630_161532_small.webp",
+    "imageBlurHash": "UuGlbfofRkfP.TW.j?ay%hjFadkCtRbHRjof",
+    "subRegionId": "eb5cbf6f-0d2f-40f1-b06e-bba6b637efd8",
+    "description": "",
+    "createdAt": "2025-12-16T05:29:33.589Z",
+    "updatedAt": "2026-07-20T11:47:58.248Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "eb5cbf6f-0d2f-40f1-b06e-bba6b637efd8",
+      "name": "Kajiado North"
+    },
+    "region": {
+      "id": "eba5dd12-b2ca-40e3-8bcd-4d9270c876b7",
+      "name": "Kajiado"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "6d3ebd58-b5a9-4397-8273-4fe1153ca9d1",
+    "name": "Sosian",
+    "slug": "sosian",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/7f5e50f2-0d1e-41bf-bef2-980f80c160e0-20260402_093650860_iOS_small.webp",
+    "imageBlurHash": "UnFsPsxtbcxu.AxtWCt7OGs.oIadWCWYoft6",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T05:28:58.316Z",
+    "updatedAt": "2026-07-20T11:51:20.192Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "731d2865-f627-4432-8a0e-26e5c4bc2ce8",
+    "name": "Kitengela",
+    "slug": "kitengela",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/44eecec4-44a1-4742-ad77-71827d7a0481-10_small.webp",
+    "imageBlurHash": "UTEzA?RioyM|G1IVxsWXtnNIxVo#IWkYxaRk",
+    "subRegionId": "eb5cbf6f-0d2f-40f1-b06e-bba6b637efd8",
+    "description": "Kitengela",
+    "createdAt": "2025-12-16T05:28:21.334Z",
+    "updatedAt": "2026-06-03T15:28:19.299Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "eb5cbf6f-0d2f-40f1-b06e-bba6b637efd8",
+      "name": "Kajiado North"
+    },
+    "region": {
+      "id": "eba5dd12-b2ca-40e3-8bcd-4d9270c876b7",
+      "name": "Kajiado"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 27
+  },
+  {
+    "id": "118f0d8d-806d-462d-a3da-5ea6552af627",
+    "name": "Ongata Rongai",
+    "slug": "ongata-rongai",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/53d05af0-d5f8-4924-b202-a372f024c1a8-20260615_113148556_iOS_small.webp",
+    "imageBlurHash": "U$EW5;Oat6bHt:xvf*t6S*t6oea#R*e-s.WE",
+    "subRegionId": "eb5cbf6f-0d2f-40f1-b06e-bba6b637efd8",
+    "description": "",
+    "createdAt": "2025-12-16T05:27:59.918Z",
+    "updatedAt": "2026-07-20T11:56:36.344Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "eb5cbf6f-0d2f-40f1-b06e-bba6b637efd8",
+      "name": "Kajiado North"
+    },
+    "region": {
+      "id": "eba5dd12-b2ca-40e3-8bcd-4d9270c876b7",
+      "name": "Kajiado"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 20
+  },
+  {
+    "id": "8e738308-06ea-4f80-b092-7fadfc491b3a",
+    "name": "Wanyee",
+    "slug": "wanyee",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/f311e678-78f6-4f89-944c-93f0d43b566f-5_(1)_small.webp",
+    "imageBlurHash": "UeG9jhoJ%hxu_4t7azogt7j]M_WB%Mt7jsWB",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "",
+    "createdAt": "2025-12-16T05:22:15.559Z",
+    "updatedAt": "2026-07-20T12:01:20.706Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "a8922de1-6ebd-421f-857d-88dde0168a5d",
+    "name": "Tena",
+    "slug": "tena",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/2584558b-9e40-4b3f-b67d-8c4397f8df47-20260331_145148757_iOS_small.webp",
+    "imageBlurHash": "UyD^~4W?NLbwpfV[o#bcIVWBn#WBbJozaJjY",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T05:21:34.735Z",
+    "updatedAt": "2026-07-20T15:44:32.530Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 10
+  },
+  {
+    "id": "d8ec7fa8-1419-41cc-bb84-07d8f2e76754",
+    "name": "Tassia ",
+    "slug": "tassia",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/4c9e0e00-b490-40a7-b79f-08dc20ffb0f5-20260402_093650860_iOS_small.webp",
+    "imageBlurHash": "UnFsPsxtbcxu.AxtWCt7OGs.oIadWCWYoft6",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T05:21:24.161Z",
+    "updatedAt": "2026-07-20T15:22:49.052Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 6
+  },
+  {
+    "id": "541955f9-3bf7-4704-84af-f0efc9d24f39",
+    "name": "Nasra",
+    "slug": "nasra",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/df80f394-479b-4563-812d-9527b8158352-2_small.webp",
+    "imageBlurHash": "UnFsPtxtbcxu.AxtWCt7OGoeoIadWCWYoft6",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Nasra",
+    "createdAt": "2025-12-16T05:21:02.086Z",
+    "updatedAt": "2026-06-03T15:28:18.333Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "c4e9c1d8-92f1-41ef-8f8a-193d32683e7f",
+    "name": "OJ Membley",
+    "slug": "oj-membley",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/4d431c7d-769b-4e2f-85b8-a47ffa5a85a8-16_small.webp",
+    "imageBlurHash": "UVGITPEpR=o$PENNM}s:~BITM^sQNfact6oe",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Membley",
+    "createdAt": "2025-12-16T05:19:47.645Z",
+    "updatedAt": "2026-06-03T15:28:23.107Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 24
+  },
+  {
+    "id": "1ebee766-741c-496e-91d4-9d7e701e6e7e",
+    "name": "Utawala",
+    "slug": "utawala",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/3798cd05-b229-4c5f-a53e-c83971436c79-4_small.webp",
+    "imageBlurHash": "UXFP,8bcI]x^XqM_o#kDE8RjV@og%%tRM_j]",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Utawala",
+    "createdAt": "2025-12-16T05:18:45.620Z",
+    "updatedAt": "2026-06-03T15:28:16.174Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 105
+  },
+  {
+    "id": "f51fc977-baeb-4739-ad94-5f6cfdd89161",
+    "name": "Kamulu",
+    "slug": "kamulu",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/0adde5eb-e239-4c06-aec8-eef7821a6428-9_small.webp",
+    "imageBlurHash": "UfCt*7ofkWozY8kCjuozv{RkRjoeM{M|Rkt6",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "",
+    "createdAt": "2025-12-16T05:16:00.405Z",
+    "updatedAt": "2026-07-20T15:24:00.561Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 4
+  },
+  {
+    "id": "7856d904-1cc2-423f-8132-ae44d3422ec5",
+    "name": "Joska",
+    "slug": "joska",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/093f466f-c554-4d12-ba9a-143cb699605e-20260402_142659828_iOS_-_Edited_small.webp",
+    "imageBlurHash": "UfDTbhx_cGt7O_NfSPjEOaWAngemS6oIs7oL",
+    "subRegionId": "58806a84-35c3-431b-97f5-ed51d827d8bc",
+    "description": "",
+    "createdAt": "2025-12-16T05:14:57.587Z",
+    "updatedAt": "2026-07-20T15:21:15.458Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "58806a84-35c3-431b-97f5-ed51d827d8bc",
+      "name": "Matungulu"
+    },
+    "region": {
+      "id": "9825d201-707a-49bc-9e9d-ebfc3108262f",
+      "name": "Machakos"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 6
+  },
+  {
+    "id": "20a35280-a3d2-42a1-acfa-86000a7543e8",
+    "name": "South B",
+    "slug": "south-b",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/88f946a0-2de2-4aad-b219-7c6a66c41893-3_small.webp",
+    "imageBlurHash": "UfFPjUxuNGj]K9t6ayWEyZt6aeR-p0ocRkR+",
+    "subRegionId": "97399974-cf51-40d5-9bf6-edec7ef17423",
+    "description": "South B",
+    "createdAt": "2025-12-16T05:05:32.528Z",
+    "updatedAt": "2026-06-03T15:28:16.414Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "97399974-cf51-40d5-9bf6-edec7ef17423",
+      "name": "Langata"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 12
+  },
+  {
+    "id": "705491a2-687f-4273-8886-ba339e57c832",
+    "name": "Mirema",
+    "slug": "mirema",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/119875ca-bcbb-4d4b-8249-a6c34b3f7c0d-7_small.webp",
+    "imageBlurHash": "UZHeRsbJIUWCGdWYjYRk$*RPWYWDM{V?M|bb",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Mirema",
+    "createdAt": "2025-12-16T05:04:47.036Z",
+    "updatedAt": "2026-06-03T15:28:19.324Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 32
+  },
+  {
+    "id": "61af6c40-0dff-4429-b02a-fe68b00f97e6",
+    "name": "Kamiti Road",
+    "slug": "kamiti-road",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/e78bc717-bf75-4e55-8e64-a4e9898d653e-7_small.webp",
+    "imageBlurHash": "UVFFdIxFoz%g?wV?R*x]%iV?M{of.9M{MxWB",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Kamiti Road",
+    "createdAt": "2025-12-16T05:04:27.432Z",
+    "updatedAt": "2026-06-03T15:28:18.480Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 7
+  },
+  {
+    "id": "9a077f8d-0ff1-44a7-b542-5b2cb835e4b7",
+    "name": "Kabiria",
+    "slug": "kabiria",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/4fe582d7-41b1-4a71-a05d-bc27c065b632-7_small.webp",
+    "imageBlurHash": "UCH2G+00L4?E0V8_s;jX00%M+?E3-W%MS5NI",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "",
+    "createdAt": "2025-12-16T05:01:38.190Z",
+    "updatedAt": "2026-07-20T15:26:48.509Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "b4552b5b-95b3-46f2-9b2e-a16ea4f68c14",
+    "name": "Kahawa West",
+    "slug": "kahawa-west",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/34ee0f71-04d1-493f-b593-6a1ef2688b8e-3_small.webp",
+    "imageBlurHash": "UmF={@IpaeV@?waeNGae%MWAofWVogt7ofV@",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Kahawa West",
+    "createdAt": "2025-12-16T04:59:40.263Z",
+    "updatedAt": "2026-06-03T15:28:21.439Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 48
+  },
+  {
+    "id": "12c54f9c-95f2-486a-b01d-d0f8b57340ce",
+    "name": "Hurlingham",
+    "slug": "hurlingham",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c757d909-b85f-42f7-9251-7eed2cef5127-11_small.webp",
+    "imageBlurHash": "UcCQcEDj%gogt:aes:bcNMM|ngR*M{V[adV@",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Hurlingham",
+    "createdAt": "2025-12-16T04:59:12.962Z",
+    "updatedAt": "2026-06-03T15:28:16.016Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 2
+  },
+  {
+    "id": "40ce6f51-7f95-4fd8-899d-a03077effdaa",
+    "name": "Homeland",
+    "slug": "homeland",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/f885888e-2f90-4d4d-8c5e-c938caebe693-Homeland_small.webp",
+    "imageBlurHash": "UgKBH|-=M_ofAyo#RPWC_4NGRia~o~t5WBa~",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Homeland\r\n",
+    "createdAt": "2025-12-16T04:58:52.852Z",
+    "updatedAt": "2026-06-03T15:28:17.332Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 4
+  },
+  {
+    "id": "e5945e87-d382-4449-a80c-44f62783df97",
+    "name": "Fedha",
+    "slug": "fedha",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/1ed97cc4-02e5-4421-8dc4-9f8409d65266-6_small.webp",
+    "imageBlurHash": "UpE;7yx]p0t6Y8ofo#ae9bj@e-axo#ayjDf6",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Fedha",
+    "createdAt": "2025-12-16T04:57:41.886Z",
+    "updatedAt": "2026-06-03T15:28:23.869Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 35
+  },
+  {
+    "id": "1a67ce40-573d-412e-8b6a-2485d002e41f",
+    "name": "Buru Buru",
+    "slug": "buru-buru",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/3c959f03-a825-40ce-8786-bbf51d93c17e-20260331_151207110_iOS_(1)_small.webp",
+    "imageBlurHash": "UgG9aFt7f+xu?wRkR-ofx]WBIVWCWYV@NGWB",
+    "subRegionId": "e41f6154-78f2-46b0-bd8e-5fb2daeaf5c0",
+    "description": "",
+    "createdAt": "2025-12-16T04:51:28.785Z",
+    "updatedAt": "2026-07-20T15:14:46.703Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "e41f6154-78f2-46b0-bd8e-5fb2daeaf5c0",
+      "name": "Makadara"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "dec8aceb-a544-49e1-bc22-a457a341c97a",
+    "name": "Makadara",
+    "slug": "makadara",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/a654537d-3929-4be4-8739-0f16b771253a-deec1452-b7e0-4117-aeec-21e4a33c0cdd-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "e41f6154-78f2-46b0-bd8e-5fb2daeaf5c0",
+    "description": "Makadara",
+    "createdAt": "2025-12-16T04:51:14.571Z",
+    "updatedAt": "2026-06-03T15:28:23.958Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "e41f6154-78f2-46b0-bd8e-5fb2daeaf5c0",
+      "name": "Makadara"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "b685c7d1-fe21-41ed-b23c-2463c8ad1c0c",
+    "name": "Pumwani",
+    "slug": "pumwani",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/f26bb8eb-7cf2-46a9-b2d0-3f240552f402-1daad030-c654-48e9-8c85-9e8e76cae94b-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+    "description": "Pumwani",
+    "createdAt": "2025-12-16T04:50:48.466Z",
+    "updatedAt": "2026-06-03T15:28:21.873Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+      "name": "Starehe"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "e5081347-62a8-44ae-bab6-9d0b16d96a00",
+    "name": "Eastleigh",
+    "slug": "eastleigh",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/280e6d34-7aa1-464d-a605-7755dcd6457b-e5aa0c7f-3d2e-45ff-b291-8f13e1373d2f-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+    "description": "Eastleigh",
+    "createdAt": "2025-12-16T04:50:35.413Z",
+    "updatedAt": "2026-06-03T15:28:23.983Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+      "name": "Starehe"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "9fffae7f-1c0d-4601-aadc-6c96829d3a6f",
+    "name": "Ziwani",
+    "slug": "ziwani",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/0b621a98-c314-418e-8a0d-6c0cfe494489-6e54e33a-2514-4ba1-aa53-3013ddc53396-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+    "description": "Ziwani",
+    "createdAt": "2025-12-16T04:50:25.270Z",
+    "updatedAt": "2026-06-03T15:28:20.785Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+      "name": "Starehe"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "7c8b72b4-19d3-4d6d-85fb-707c511f336d",
+    "name": "Ngara",
+    "slug": "ngara",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/105fc599-d2f0-4e3d-a9a5-77f6f2961b7d-10_small.webp",
+    "imageBlurHash": "UsEp7|r:t2ogyGjDt6a#IrNeWXRiafkERjWU",
+    "subRegionId": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+    "description": "Ngara",
+    "createdAt": "2025-12-16T04:50:14.095Z",
+    "updatedAt": "2026-06-03T15:28:19.631Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+      "name": "Starehe"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 4
+  },
+  {
+    "id": "2dd6bb7c-cc56-4198-b81d-ef624c543e5a",
+    "name": "Pangani",
+    "slug": "pangani",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/b3d67ec1-3ee5-4fa7-b169-49d0800fdcf3-3_small.webp",
+    "imageBlurHash": "UgF6txtRI_RkpMj?Rnf7i^skV=R+t3kDWAWY",
+    "subRegionId": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+    "description": "Pangani",
+    "createdAt": "2025-12-16T04:50:04.072Z",
+    "updatedAt": "2026-06-03T15:28:16.906Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6e402179-749f-46dd-bd9f-2cbcbc01bcd0",
+      "name": "Starehe"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 8
+  },
+  {
+    "id": "8f5b401e-0f34-45ac-8ce0-8657fc27c013",
+    "name": "Huruma",
+    "slug": "huruma",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/91613448-5199-479e-876f-fa3fb7da9395-f4a27c36-ac2e-4f6a-956b-a179a76229e5-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "ae02bea7-9806-470a-a479-ffe9c32a9f77",
+    "description": "Huruma",
+    "createdAt": "2025-12-16T04:49:13.539Z",
+    "updatedAt": "2026-06-03T15:28:20.345Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ae02bea7-9806-470a-a479-ffe9c32a9f77",
+      "name": "Mathare"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "0270335a-3b19-48d3-b8d4-8df6d8dcbac9",
+    "name": "Mathare",
+    "slug": "mathare",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/853934ca-2d74-4613-a7a2-b471c14f4c74-fd27fa5c-6f0e-4e92-ac4e-148c1d7a7407-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "ae02bea7-9806-470a-a479-ffe9c32a9f77",
+    "description": "Mathare",
+    "createdAt": "2025-12-16T04:49:00.869Z",
+    "updatedAt": "2026-06-03T15:28:15.036Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ae02bea7-9806-470a-a479-ffe9c32a9f77",
+      "name": "Mathare"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "4264e9d5-239a-4367-a633-6a0d1fb5d451",
+    "name": "Clay City",
+    "slug": "clay-city",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/ec8fa359-5e4c-46a7-8e08-21fabc13cbc5-9_small.webp",
+    "imageBlurHash": "UdIOb9IVtSoepfM{xbfi-pRiRPofbbjXROoz",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Clay City",
+    "createdAt": "2025-12-16T04:48:03.203Z",
+    "updatedAt": "2026-06-03T15:28:17.618Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 24
+  },
+  {
+    "id": "097dda0a-d396-46e6-8c3e-6d4a08e5777e",
+    "name": "Njathaini",
+    "slug": "njathaini",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c4c56c9a-d4c0-4fd6-b5f0-a42a467b4d3b-20260331_095045887_iOS_small.webp",
+    "imageBlurHash": "UZGbSRjGRiW=KnNKV@Rn?JxuWUWFTMWsjZa#",
+    "subRegionId": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+    "description": "",
+    "createdAt": "2025-12-16T04:41:20.427Z",
+    "updatedAt": "2026-07-20T15:50:51.992Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+      "name": "Kabete"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 2
+  },
+  {
+    "id": "4830f447-7e05-4951-9e53-c4f7e085fa42",
+    "name": "Zimmerman",
+    "slug": "zimmerman",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/53f09a6f-ed0a-4d51-b558-c3d495f3869b-3_small.webp",
+    "imageBlurHash": "UOJQ+jtROrxY.As,S~W??axBxvSiE,M{%2oL",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Zimmerman",
+    "createdAt": "2025-12-16T04:41:07.141Z",
+    "updatedAt": "2026-06-03T15:28:18.622Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 13
+  },
+  {
+    "id": "af44ea17-b0e3-48fa-906d-a4b46116bcca",
+    "name": "Mwiki",
+    "slug": "mwiki-fff19a",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/66f716fc-fa96-47df-ba2e-940941000f63-8db1e7ca-3f82-4f23-a61b-562c6349f16f-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Mwiki",
+    "createdAt": "2025-12-16T04:40:55.911Z",
+    "updatedAt": "2026-06-03T15:28:21.413Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "0f1b4773-f139-4841-a103-8ed578d166eb",
+    "name": "Thome",
+    "slug": "thome",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/e9e213f1-9bc7-438f-bc6e-2c2416f46f60-Thome__small.webp",
+    "imageBlurHash": "UnKKpJpIt6xat:%2n%az.9%2s-aeOGW9WAoe",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Thome",
+    "createdAt": "2025-12-16T04:40:42.083Z",
+    "updatedAt": "2026-06-03T15:28:15.476Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 27
+  },
+  {
+    "id": "72b3fc0a-fe87-436d-b263-ec8f35c349ec",
+    "name": "Marurui",
+    "slug": "marurui",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/4cf24dc5-ed20-4757-adf6-42fd8a3571d5-20260131_110807473_iOS_small.webp",
+    "imageBlurHash": "UbGIiot7aztR.AR.ayt7.8W=oMkCx^b0fQof",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "",
+    "createdAt": "2025-12-16T04:40:33.425Z",
+    "updatedAt": "2026-07-20T15:54:54.343Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 23
+  },
+  {
+    "id": "1989fc3f-50c4-4aa1-a58e-08210cd26b93",
+    "name": "Githurai 45",
+    "slug": "githurai-45",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/641b75b6-7fa9-48b9-8132-d75ecb96958c-2_small.webp",
+    "imageBlurHash": "UUJavLXBOba%PEI_tTWE?Jn-NLRiS+M}oMV?",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Githurai 45",
+    "createdAt": "2025-12-16T04:40:00.191Z",
+    "updatedAt": "2026-06-03T15:28:16.131Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 14
+  },
+  {
+    "id": "b3149281-a00f-49bc-9c08-dd0eaf88b7fe",
+    "name": "Githurai 44",
+    "slug": "githurai-44",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/5b0fa194-4cff-43ea-acbe-d2833a103321-12_small.webp",
+    "imageBlurHash": "UcF~q0RjT2R;tpRjXARlD*t7WAoJslj?ngob",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Githurai 44",
+    "createdAt": "2025-12-16T04:39:46.673Z",
+    "updatedAt": "2026-06-03T15:28:21.379Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "54099cd0-aa9d-48d0-9829-214d6f78ab78",
+    "name": "Roysambu",
+    "slug": "roysambu",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/fc40952d-c97d-4f1c-b634-7a77d4d6b82d-4_small.webp",
+    "imageBlurHash": "UhDc]_bxaetRyGt8WWj]b{M{adWBNGjEj[j@",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "",
+    "createdAt": "2025-12-16T04:39:29.409Z",
+    "updatedAt": "2026-07-20T15:56:27.004Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 27
+  },
+  {
+    "id": "25acef64-f491-4ddf-9f4a-dfe12520d4ad",
+    "name": "Kasarani",
+    "slug": "kasarani",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/a22e5083-b2a6-4ba3-808b-dc3301a67327-Kasarani_small.webp",
+    "imageBlurHash": "UWF~p=itkDtR.AnMR,t8xvxtNFkDW=xuV?R+",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Kasarani",
+    "createdAt": "2025-12-16T04:39:15.250Z",
+    "updatedAt": "2026-06-03T15:28:16.648Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 44
+  },
+  {
+    "id": "66145d19-ec87-43e1-809e-51f96a509345",
+    "name": "Kinoo",
+    "slug": "kinoo",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c856c851-4834-4c1c-8732-4fcaffe7d19e-20260224_112140754_iOS_small.webp",
+    "imageBlurHash": "UQE:9[a#o#of_N9ERjxaD%DhWAx]IUt7%Mt7",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "",
+    "createdAt": "2025-12-16T04:38:58.898Z",
+    "updatedAt": "2026-07-20T16:01:00.925Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 21
+  },
+  {
+    "id": "db1f04c4-83c4-4290-b0c5-74f6e9c8d06c",
+    "name": "Uthiru ",
+    "slug": "uthiru",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/dbe84814-2168-4bb3-9ff7-6e34ed60e157-1_small.webp",
+    "imageBlurHash": "UkH.1%f8NHR*t:bcs:n*RQxut7RkRORjt7ay",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "<p><span style=\"\">Uthiru straddles the border of Nairobi and Kiambu County along Waiyaki Way, about 14km northwest of the CBD. Wedged between Kangemi and Kikuyu, it has quietly outgrown its peri-urban origins to become a practical, affordable address for families and professionals who want city access without city prices and cooler air as a bonus.</span></p><p><br></p>",
+    "createdAt": "2025-12-16T04:38:46.154Z",
+    "updatedAt": "2026-07-20T16:01:33.550Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 33
+  },
+  {
+    "id": "13559d5f-6747-4355-bf5a-f7b61e425778",
+    "name": "Kawangware",
+    "slug": "kawangware",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/f3caf27b-e893-4932-aed1-b3d1411a9861-6_small.webp",
+    "imageBlurHash": "UcFPvy%Mn#bIY8oet3bI-=V?kCogR:Rkbdof",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "",
+    "createdAt": "2025-12-16T04:38:23.362Z",
+    "updatedAt": "2026-07-21T10:24:22.251Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 5
+  },
+  {
+    "id": "3a491c42-ec54-4fcd-80bf-0baacd594e98",
+    "name": "Riruta",
+    "slug": "riruta",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/1ed7359b-7876-48b1-bda5-3c80a054a340-7_(1)_small.webp",
+    "imageBlurHash": "UCH2G+00L4?E0V8_s;jX00%M+?E3-W%MS5NI",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "",
+    "createdAt": "2025-12-16T04:38:04.302Z",
+    "updatedAt": "2026-07-20T16:05:52.453Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 9
+  },
+  {
+    "id": "c264e5d2-fd6c-4db6-b092-ec4fdd1d608d",
+    "name": "Dagoretti Corner",
+    "slug": "dagoretti-corner",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/dbc6d3eb-d736-470a-a0f9-1baef696aff0-3_small.webp",
+    "imageBlurHash": "UoGl*UkDkCt7.TWCWAofs.RjWBayozRjt7kC",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "Dagoretti Corner",
+    "createdAt": "2025-12-16T04:37:46.253Z",
+    "updatedAt": "2026-06-03T15:28:22.556Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "fd51cfee-31eb-483f-92ef-600608ded40b",
+    "name": "Naivasha Road",
+    "slug": "naivasha-road",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/2c30c662-0060-4f84-ab86-c32d2db54ee9-20260327_112330498_iOS_(1)_small.webp",
+    "imageBlurHash": "UYDA+PJDRQ%NPEWFM_RnH=oHs,V@s:xat8WC",
+    "subRegionId": "0d834b9f-121d-4278-9554-fc73f41fc472",
+    "description": "",
+    "createdAt": "2025-12-16T04:37:21.358Z",
+    "updatedAt": "2026-07-21T10:28:31.980Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "0d834b9f-121d-4278-9554-fc73f41fc472",
+      "name": "Dagoretti"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 2
+  },
+  {
+    "id": "032d6054-c92b-4ca2-bf2a-2c5c8b4744a2",
+    "name": "South C",
+    "slug": "south-c",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/a9ab9694-931b-4fc9-bc39-e59d64199666-4_small.webp",
+    "imageBlurHash": "USCjCUROX9tSR=$dobWAOvnNe-f5Y8X9s;o#",
+    "subRegionId": "97399974-cf51-40d5-9bf6-edec7ef17423",
+    "description": "South C",
+    "createdAt": "2025-12-16T04:33:13.160Z",
+    "updatedAt": "2026-06-03T15:28:14.825Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "97399974-cf51-40d5-9bf6-edec7ef17423",
+      "name": "Langata"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 12
+  },
+  {
+    "id": "f1ff0b0c-d7b5-4658-8bb6-8317b2a80488",
+    "name": "Ngong Road",
+    "slug": "ngong-road",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/cebcc51c-fc09-4a17-b648-197c338066ad-6_small.webp",
+    "imageBlurHash": "UeE:xnxtRQoL%%RkWBt8xut7j[xvRjbbWBj?",
+    "subRegionId": "97399974-cf51-40d5-9bf6-edec7ef17423",
+    "description": "Ngong Road",
+    "createdAt": "2025-12-16T04:32:51.098Z",
+    "updatedAt": "2026-06-03T15:28:24.305Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "97399974-cf51-40d5-9bf6-edec7ef17423",
+      "name": "Langata"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 20
+  },
+  {
+    "id": "e7253bcf-7934-419c-b2c6-558bb97d4b55",
+    "name": "Karen",
+    "slug": "karen",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/2765d93d-5064-43b4-8820-4b2e83b82ecd-8e85d0ad-08fb-4861-ad32-c44b7d282ed6-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "97399974-cf51-40d5-9bf6-edec7ef17423",
+    "description": "Karen",
+    "createdAt": "2025-12-16T04:31:51.931Z",
+    "updatedAt": "2026-06-03T15:28:24.215Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "97399974-cf51-40d5-9bf6-edec7ef17423",
+      "name": "Langata"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "ac5ee426-a429-43bc-a132-6acdab7f59e7",
+    "name": "Lang'ata",
+    "slug": "langata",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/d8022965-0e2d-41f4-91e9-a1e6db4c2e68-20260331_104216168_iOS_small.webp",
+    "imageBlurHash": "UTG02{DOITo}%%RPRPazWTtRa0Rj%NtRRjR*",
+    "subRegionId": "97399974-cf51-40d5-9bf6-edec7ef17423",
+    "description": "",
+    "createdAt": "2025-12-16T04:31:28.502Z",
+    "updatedAt": "2026-07-20T16:12:05.196Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "97399974-cf51-40d5-9bf6-edec7ef17423",
+      "name": "Langata"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 5
+  },
+  {
+    "id": "bb3ca3bc-de19-44fb-961e-19d8126efd0d",
+    "name": "Buru Buru - Duplicate",
+    "slug": "buru-buru-duplicate",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/f50eb333-7728-409e-a0b1-bb4724882ade-f7377dab-9f17-4722-b5a5-9cf838544127-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T04:28:12.496Z",
+    "updatedAt": "2026-07-20T16:15:26.606Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "41a7bd44-0696-48a9-8297-be11bf645710",
+    "name": "Kayole South",
+    "slug": "kayole-south",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/4fd04841-ee7b-489f-81f5-5c3dfdb8a843-c02e7dc7-4432-4d13-82f4-07bf37337c53-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Kayole South",
+    "createdAt": "2025-12-16T04:27:59.440Z",
+    "updatedAt": "2026-06-03T15:28:18.013Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "dbc6bcfe-3d97-4fbd-bda3-1c84761cbe85",
+    "name": "Dandora",
+    "slug": "dandora",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/2a60668c-c4fb-4314-8da4-5e0dad2bed65-a882b3d4-eac5-432c-85ed-4cbe537da46d-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Dandora",
+    "createdAt": "2025-12-16T04:27:48.883Z",
+    "updatedAt": "2026-06-03T15:28:23.750Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "d83c457b-cb62-41e2-b487-e30672be9626",
+    "name": "Komarock",
+    "slug": "komarock",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/dfdb66a8-76d4-4e27-9e5b-7a53bb4040c5-2_small.webp",
+    "imageBlurHash": "UcF6w$%LXTS7BaoHf+Wr%hV@aIob9FR.n#jE",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Komarock",
+    "createdAt": "2025-12-16T04:27:26.799Z",
+    "updatedAt": "2026-06-03T15:28:23.311Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 7
+  },
+  {
+    "id": "f65a7ab8-b01d-496f-bdc0-df282564e0e9",
+    "name": "Kayole",
+    "slug": "kayole",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/2bf313b3-42c7-41f2-a5d1-dc60cf4aa8c1-20260331_141417007_iOS_small.webp",
+    "imageBlurHash": "UgFGLXNIaIxDPExan$n~bxjXkDWrxrRjW?kD",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T04:27:13.326Z",
+    "updatedAt": "2026-07-20T16:20:20.617Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "d20b5c66-71cd-4f9d-85cd-652a7a63a181",
+    "name": "Kariobangi South",
+    "slug": "kariobangi-south",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/3c6a89eb-3cdf-42f9-a96d-5a703013acfa-d76d0b10-95e9-46f8-a907-b848d650a07c-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Kariobangi South",
+    "createdAt": "2025-12-16T04:26:59.254Z",
+    "updatedAt": "2026-06-03T15:28:23.199Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "aae5f34e-9504-4e89-a73d-da98d72b8e1e",
+    "name": "Kariobangi North",
+    "slug": "kariobangi-north",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/e6b10f7a-76a2-4ab5-a780-e2fa6d4b60af-9d102b26-a400-40cc-80b2-613514db1681-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "ae02bea7-9806-470a-a479-ffe9c32a9f77",
+    "description": "Kariobangi North",
+    "createdAt": "2025-12-16T04:26:48.014Z",
+    "updatedAt": "2026-06-03T15:28:21.226Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ae02bea7-9806-470a-a479-ffe9c32a9f77",
+      "name": "Mathare"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "5de11591-5ad8-4d28-a520-f4fdead5cfcf",
+    "name": "Umoja",
+    "slug": "umoja",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/90f6f8ac-5643-4180-bf2b-160869a8fce9-2_small.webp",
+    "imageBlurHash": "UhG]H:o#j]xuAfM}WBt6~qM{RPxZM{M{Rjt6",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "Umoja",
+    "createdAt": "2025-12-16T04:26:32.559Z",
+    "updatedAt": "2026-06-03T15:28:18.425Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 4
+  },
+  {
+    "id": "b4570a9f-3214-4a93-be07-067276b72984",
+    "name": "Donholm",
+    "slug": "donholm",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/55066a65-7f99-46c6-802a-2cace7ab14dd-20260331_134349870_iOS_small.webp",
+    "imageBlurHash": "UeGSfn-:xunh.T%2tRt7T1tRjEozohR*V?WC",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T04:26:18.386Z",
+    "updatedAt": "2026-07-20T16:21:00.774Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 22
+  },
+  {
+    "id": "9462e8ec-ecbf-43aa-ac68-680af1e0caa0",
+    "name": "Embakasi",
+    "slug": "embakasi",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/437d748e-f9b9-4305-a7c0-64a132b0e320-1_small.webp",
+    "imageBlurHash": "UVGlbjysOt?b?dK7VttRE1NGsCM{-ptSt6s:",
+    "subRegionId": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+    "description": "",
+    "createdAt": "2025-12-16T04:26:02.014Z",
+    "updatedAt": "2026-07-20T16:22:08.576Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "641be6a5-cec5-4ad5-b70c-b90b36627a8e",
+      "name": "Embakasi"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "aae68306-0e9d-4075-9164-23b4b1af2d4d",
+    "name": "Upper Hill",
+    "slug": "upper-hill",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c48ef61d-7f3c-46fd-82ff-b6faf2b9e44a-c46ca5bf-6736-4aa9-91f7-ccf9920c7998-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "95adac5e-c147-441c-b986-ec31e02821f9",
+    "description": "Upper Hill",
+    "createdAt": "2025-12-16T04:25:18.792Z",
+    "updatedAt": "2026-06-03T15:28:21.123Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "95adac5e-c147-441c-b986-ec31e02821f9",
+      "name": "Nairobi, CBD"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "d2627952-18da-4368-9d4a-235e59409aa6",
+    "name": "Riverside",
+    "slug": "riverside",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/8303a566-883e-4a86-a689-08b924f29eaa-9346b1d5-a136-4a46-8c47-cd57382d1233-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Riverside",
+    "createdAt": "2025-12-16T04:23:57.435Z",
+    "updatedAt": "2026-06-03T15:28:23.332Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "24681374-63be-45d7-81ad-f9c58e51f7d9",
+    "name": "Muthangari",
+    "slug": "muthangari",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/702d3156-4425-465f-a67b-428ae4264777-30558fb1-f9bf-47f4-b956-5ee020f06bdf-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Muthangari",
+    "createdAt": "2025-12-16T04:23:43.817Z",
+    "updatedAt": "2026-06-03T15:28:16.549Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "a7b3e4d1-54ac-4634-8aec-f018e783273a",
+    "name": "Kileleshwa",
+    "slug": "kileleshwa",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/b1229a5e-3aba-4acb-96e3-e0005368f502-1_small.webp",
+    "imageBlurHash": "UVE3l1WZxA-.TgtSRhWA?wbdxut7kXozRlay",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Kileleshwa",
+    "createdAt": "2025-12-16T04:23:34.591Z",
+    "updatedAt": "2026-06-03T15:28:20.823Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 6
+  },
+  {
+    "id": "7a404752-4a71-42d7-9118-5805349381db",
+    "name": "Lavington",
+    "slug": "lavington",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/0869c38a-e12b-4043-a1ad-3880a2f0dd7e-1_small.webp",
+    "imageBlurHash": "UWDAG-$bIUN2E=R+xYt6aebyW=ocogoNt8WY",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Lavington",
+    "createdAt": "2025-12-16T04:23:07.344Z",
+    "updatedAt": "2026-06-03T15:28:19.576Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 16
+  },
+  {
+    "id": "4b0c9bcf-83b4-4b5f-bfc8-38c69b90e1b7",
+    "name": "Kilimani",
+    "slug": "kilimani",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/e9065fb2-93dc-4bcc-a755-3e1177683e0d-7_small.webp",
+    "imageBlurHash": "UOEDM9Mw?HXUF8IV%LRke,RlnhjDxCnha#ax",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Kilimani",
+    "createdAt": "2025-12-16T04:22:55.792Z",
+    "updatedAt": "2026-06-03T15:28:17.964Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 15
+  },
+  {
+    "id": "3f5c522a-aadc-4c10-a4fe-5c9cbfbb2494",
+    "name": "Kitisuru",
+    "slug": "kitisuru",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/fe72f780-3fa4-4e12-9e10-14f07e6b574c-05d34cdd-119a-4a6d-93a2-9bddc297a15b-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Kitisuru",
+    "createdAt": "2025-12-16T04:22:43.133Z",
+    "updatedAt": "2026-06-03T15:28:17.761Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "13bbbb39-4b31-44c9-8991-9e1a558a2014",
+    "name": "Parklands",
+    "slug": "parklands",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/ee22f48f-2f04-4d9f-a6fb-a1f6529aebc3-19_small.webp",
+    "imageBlurHash": "UfGlCuX9M_%M.AxbjXxu%Mt8f+kCWYofkCof",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Parklands",
+    "createdAt": "2025-12-16T04:22:33.039Z",
+    "updatedAt": "2026-06-03T15:28:15.873Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "94abf70a-f74d-4694-b30a-4fcec8b91923",
+    "name": "Westlands",
+    "slug": "westlands",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/71e80eb4-0ea5-42ab-b841-4ce093f5d176-5_small.webp",
+    "imageBlurHash": "UHIN%74n4n=}_N9brVtRE$E0S]Nf-UNuR5o#",
+    "subRegionId": "128c7080-dc2d-4287-b3b2-391f14306b19",
+    "description": "Westlands",
+    "createdAt": "2025-12-16T04:22:21.609Z",
+    "updatedAt": "2026-06-03T15:28:20.526Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "128c7080-dc2d-4287-b3b2-391f14306b19",
+      "name": "Westlands"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 11
+  },
+  {
+    "id": "bdfc5188-3ed4-4a55-a196-2cee5008cd6b",
+    "name": "Kenyatta Road",
+    "slug": "kenyatta-road",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/da9cea97-b5ec-4cb7-9bf0-f20b1741a682-4_small.webp",
+    "imageBlurHash": null,
+    "subRegionId": "92fe790d-2c3f-4353-aa1f-1c858bd68586",
+    "description": "Kenyatta Road",
+    "createdAt": "2025-12-16T04:17:48.239Z",
+    "updatedAt": "2026-04-02T10:32:38.887Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "92fe790d-2c3f-4353-aa1f-1c858bd68586",
+      "name": "Juja"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 28
+  },
+  {
+    "id": "80202bba-88e8-4745-a3c1-416317ecb513",
+    "name": "Gachororo",
+    "slug": "gachororo",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/3c481db7-a315-415a-b794-61a22280224f-742df90e-3f9a-41a7-994a-78ecd18ae5ee-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "Gachororo",
+    "createdAt": "2025-12-16T04:16:45.616Z",
+    "updatedAt": "2026-06-03T15:28:19.814Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "bb33f3d9-d1b5-4a32-a28c-d30a16cedc97",
+    "name": "Juja",
+    "slug": "juja",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/fb6fefe0-d875-447f-a256-42786d888034-8_small.webp",
+    "imageBlurHash": "UsEC%~SOtRohO_ogt7bJRrj]WBaxRjofRkoI",
+    "subRegionId": "92fe790d-2c3f-4353-aa1f-1c858bd68586",
+    "description": "Juja",
+    "createdAt": "2025-12-16T04:16:23.355Z",
+    "updatedAt": "2026-06-03T15:28:22.329Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "92fe790d-2c3f-4353-aa1f-1c858bd68586",
+      "name": "Juja"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 46
+  },
+  {
+    "id": "97fd3c32-67dc-410d-b32a-dd4fb6b4c18d",
+    "name": "Thogoto",
+    "slug": "thogoto",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/87a0ff0e-096c-418c-b718-2643ecbd1c93-3_(1)_small.webp",
+    "imageBlurHash": "UlHK|r-VNHbdPEbcWBWEO]S5j[NGxHt6bIRj",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "",
+    "createdAt": "2025-12-16T04:15:05.817Z",
+    "updatedAt": "2026-07-20T16:29:28.480Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 7
+  },
+  {
+    "id": "3873e0ed-8679-41e5-bce2-3859ac6d1d7c",
+    "name": "Zambezi ",
+    "slug": "zambezi",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/258f0014-e598-4fe0-a5ed-c860306c1370-8_small.webp",
+    "imageBlurHash": "UlG+d,x_obM|k]R.Rij[RkROn$t7NHn}kCoz",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "Zambezi ",
+    "createdAt": "2025-12-16T04:14:38.706Z",
+    "updatedAt": "2026-06-03T15:28:16.986Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 5
+  },
+  {
+    "id": "7694a739-8903-406e-a04d-c174d815b246",
+    "name": "Regen",
+    "slug": "regen",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/1a3016c5-4e01-4375-893c-37cd6e7499d6-5_small.webp",
+    "imageBlurHash": "ULAwxQIpa0-pys%Nn3S6-sNyRhs;%6NGRia#",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "Regen",
+    "createdAt": "2025-12-16T04:12:45.493Z",
+    "updatedAt": "2026-06-03T15:28:19.369Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 2
+  },
+  {
+    "id": "631c5f86-944d-481a-a667-4f3bc8e1bf52",
+    "name": "Mwimuto",
+    "slug": "mwimuto",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/57797bf9-5a5b-4a04-a3b9-46dc6be421ff-5_(2)_small.webp",
+    "imageBlurHash": "UVEWUT%Me@xu?dt6WEt6?cxtIUoetSV@Rjt7",
+    "subRegionId": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+    "description": "",
+    "createdAt": "2025-12-16T04:11:43.754Z",
+    "updatedAt": "2026-07-20T16:31:47.258Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+      "name": "Kabete"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 8
+  },
+  {
+    "id": "3e7ed1dc-4b84-4595-9e5c-ff1662fd7b00",
+    "name": "Lower Kabete",
+    "slug": "lower-kabete",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/cdf45447-2204-436d-b244-681736fb5a08-6_small.webp",
+    "imageBlurHash": "UeJ8R-tmM|%MK9SjkCWD~q%MjvofpLIrslt7",
+    "subRegionId": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+    "description": "Lower Kabete",
+    "createdAt": "2025-12-16T04:10:25.478Z",
+    "updatedAt": "2026-06-03T15:28:17.879Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+      "name": "Kabete"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 12
+  },
+  {
+    "id": "e8e21475-d8d8-44c8-8ffc-1a6dd6b33205",
+    "name": "Ndenderu",
+    "slug": "ndenderu",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/f77c5664-39ac-4d7d-a57c-590115db36cf-3_small.webp",
+    "imageBlurHash": "U$I=W7WZo~tR?wWZRjt7t7WBM{WBxuaet7jZ",
+    "subRegionId": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+    "description": "Ndenderu",
+    "createdAt": "2025-12-16T04:02:09.343Z",
+    "updatedAt": "2026-06-03T15:28:24.076Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+      "name": "Kiambaa"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 1
+  },
+  {
+    "id": "ec09a83b-8fa1-47d9-b62e-dda7c7d8c29e",
+    "name": "Ndumberi",
+    "slug": "ndumberi",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/eb3ff5f7-74ec-4ef1-8e0f-c0a42ee937fc-efb585c9-f055-4677-bb56-e912e6402be1-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "52ecd24c-3d83-423f-955e-742c72fefe9d",
+    "description": "Ndumberi",
+    "createdAt": "2025-12-16T04:01:10.140Z",
+    "updatedAt": "2026-06-03T15:28:24.564Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "52ecd24c-3d83-423f-955e-742c72fefe9d",
+      "name": "Kiambu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "05d8a56c-5a4d-46f6-95be-5067f64a80b5",
+    "name": "Thindigua",
+    "slug": "thindigua",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c6d7474d-e734-491d-98b0-dd308e06cc75-4_small.webp",
+    "imageBlurHash": "UhIO66t7xvtl?wxDR:o~?cnhR+ogx]obadV@",
+    "subRegionId": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+    "description": "Thindigua",
+    "createdAt": "2025-12-16T04:00:39.954Z",
+    "updatedAt": "2026-06-03T15:28:15.099Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+      "name": "Kiambaa"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 37
+  },
+  {
+    "id": "73aa9df3-6c59-4057-904e-d716ca4db503",
+    "name": "Ruaka",
+    "slug": "ruaka",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/1246f0ef-b9b0-4d2e-8d97-22f642721958-2_small.webp",
+    "imageBlurHash": "UwGlesxtM}fl.At7WERks:j[RjRjRjayadWV",
+    "subRegionId": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+    "description": "Ruaka",
+    "createdAt": "2025-12-16T03:56:41.273Z",
+    "updatedAt": "2026-06-03T15:28:19.380Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "175771f4-ea9d-4eda-aeac-a189bdf253f6",
+      "name": "Kiambaa"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 53
+  },
+  {
+    "id": "8f43b6a1-7ef8-429b-843a-837a538906f1",
+    "name": "Rungiri",
+    "slug": "rungiri",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/bf2c8fa9-9323-4a72-860d-23d3d21e27b8-20260331_114859338_iOS_small.webp",
+    "imageBlurHash": "UtFs0{t7kYxuyGofkDogS7jYV?WVxua|V?f6",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "",
+    "createdAt": "2025-12-16T03:53:35.491Z",
+    "updatedAt": "2026-07-20T16:38:07.365Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 11
+  },
+  {
+    "id": "d9f70013-f817-498d-92ad-ee88d37a960b",
+    "name": "Gitaru",
+    "slug": "gitaru",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/5454fa0a-f11f-4a77-8fe5-0e81ce1b72cf-13_small.webp",
+    "imageBlurHash": "UoFZ59tUj^a#tpWZkCogR;ROaxogx^aJjXWB",
+    "subRegionId": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+    "description": "Gitaru",
+    "createdAt": "2025-12-16T03:53:22.392Z",
+    "updatedAt": "2026-06-03T15:28:23.623Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+      "name": "Kabete"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 9
+  },
+  {
+    "id": "455f001e-e2d7-4a20-9dec-fd4df835ba69",
+    "name": "Wangige",
+    "slug": "wangige",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/bf01e262-7a65-4bd1-8774-dceb4f689e8a-5_small.webp",
+    "imageBlurHash": "UVEM,t%MjKxu?dt6WEt6?cxtIUoetSWARjoz",
+    "subRegionId": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+    "description": "Wangige",
+    "createdAt": "2025-12-16T03:53:02.534Z",
+    "updatedAt": "2026-06-03T15:28:17.895Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "6c57c30f-70f9-469c-9998-fb2ddff4c1c2",
+      "name": "Kabete"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 15
+  },
+  {
+    "id": "834713d9-6bd8-405c-908d-2c0c9dcb0276",
+    "name": "Muthure",
+    "slug": "muthure",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/d37ebbd2-96ad-4028-8201-65bfb0a9e95d-IMG_1098_small.webp",
+    "imageBlurHash": "UdF?Y0xuo#tR%%x]ofa}%fxuadV@WYt7aeWA",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "",
+    "createdAt": "2025-12-16T03:49:18.727Z",
+    "updatedAt": "2026-07-20T16:40:53.044Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "d783d30a-19c5-4af1-89f3-d451523d54e6",
+    "name": "Sigona",
+    "slug": "sigona",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/42ac4efd-d458-4531-be6c-5e9302198f8a-7_small.webp",
+    "imageBlurHash": "UrI;-jbIRjt7u6ogaeof-Vt7aej[M{R*j[WC",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "Sigona",
+    "createdAt": "2025-12-16T03:45:45.969Z",
+    "updatedAt": "2026-06-03T15:28:23.442Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 6
+  },
+  {
+    "id": "badaa484-8acb-4b9d-8741-e8a7e5754b62",
+    "name": "Muthiga",
+    "slug": "muthiga",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/17ef4b2b-4bea-45c4-a6aa-710644874151-10_small.webp",
+    "imageBlurHash": "UcGk,:t7S0tSk]xbs*tST3NejEogS*o#t6jY",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "Muthiga",
+    "createdAt": "2025-12-16T03:45:20.701Z",
+    "updatedAt": "2026-06-03T15:28:21.821Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 18
+  },
+  {
+    "id": "370a10b4-9614-40a0-9ac1-b0cded6134b6",
+    "name": "Kikuyu Town",
+    "slug": "kikuyu-town",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/9f6b082a-d79e-4e49-b0fd-23f2c8a007e1-3_small.webp",
+    "imageBlurHash": "UlHBc4-VNHbdPEbcWBWFO]S5j[NGxHt6bIRj",
+    "subRegionId": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+    "description": "Kikuyu",
+    "createdAt": "2025-12-16T03:44:59.313Z",
+    "updatedAt": "2026-06-03T15:28:17.052Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ad3ea211-2687-4877-a556-3f26f863bdc3",
+      "name": "Kikuyu"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 7
+  },
+  {
+    "id": "2da76838-af6e-4203-943e-f3e374a2074b",
+    "name": "Limuru",
+    "slug": "limuru",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/51ce472e-cc95-4124-bde7-2743fa641e12-3614be9e-4543-46bc-a606-bf58540ffb72-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "f8dfe2b1-ded9-44d5-b338-0764fd35cab2",
+    "description": "Limuru",
+    "createdAt": "2025-12-16T03:44:07.097Z",
+    "updatedAt": "2026-06-03T15:28:16.790Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "f8dfe2b1-ded9-44d5-b338-0764fd35cab2",
+      "name": "Limuru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "f233686c-42e8-4da9-b11a-c3d8ed784677",
+    "name": "Mwihoko",
+    "slug": "mwihoko",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/1f1392ea-de9d-4723-91cf-5147ba35e525-14_small.webp",
+    "imageBlurHash": "UVF=wQ%JxvM|k]xURiRkS~ognMRk%fXTfSV@",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Mwihoko",
+    "createdAt": "2025-12-16T03:42:40.604Z",
+    "updatedAt": "2026-06-03T15:28:24.443Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 31
+  },
+  {
+    "id": "0bd74cb3-62d6-43ac-8d88-992e0d2425dd",
+    "name": "Mwiki",
+    "slug": "mwiki-5a4e0a",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/8790b751-0f31-471f-a959-b7d41ced9d9f-79acd88b-8c1e-43e6-92ef-51e1f28bbbb7-20251112_144033211_iOS_small.webp",
+    "imageBlurHash": "UuCtkor.xtxvtps+ogfmW[f-RjWZW@WZWAWX",
+    "subRegionId": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+    "description": "Mwiki",
+    "createdAt": "2025-12-16T03:42:28.837Z",
+    "updatedAt": "2026-06-03T15:28:15.558Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "ac77f1c2-e467-4259-9d05-4f5b1679c2ef",
+      "name": "Kasarani"
+    },
+    "region": {
+      "id": "ed3f6986-bfdf-4aa2-8d01-b7c4517450ef",
+      "name": "Nairobi"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 0
+  },
+  {
+    "id": "f3a652fa-b9f5-4636-91a0-7b1a7ab96fa8",
+    "name": "Kahawa Wendani",
+    "slug": "kahawa-wendani",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/7e10736b-48fb-4b3e-801f-bb9f97d51947-4_small.webp",
+    "imageBlurHash": "UOGIigJNI[w[Y7wst8NG}^IBNHoxo$s:axa$",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Kahawa Wendani",
+    "createdAt": "2025-12-16T03:42:09.480Z",
+    "updatedAt": "2026-06-03T15:28:24.522Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 26
+  },
+  {
+    "id": "8f01f5f5-2d70-490d-8afc-6d8c77293a7b",
+    "name": "Kahawa Sukari",
+    "slug": "kahawa-sukari",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/659312ad-04d9-4253-8204-0e57ef737195-8_small.webp",
+    "imageBlurHash": "UbHB.8-mxvXB6E%JkDRo^+oeM{V[M{WYRiRk",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Kahawa Sukari",
+    "createdAt": "2025-12-16T03:41:58.768Z",
+    "updatedAt": "2026-06-03T15:28:20.068Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 10
+  },
+  {
+    "id": "74951098-b8c1-44bf-834a-27230bf6259e",
+    "name": "Ruiru",
+    "slug": "ruiru",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/1881b66f-ab29-4519-a62c-535e442ae99e-1_small.webp",
+    "imageBlurHash": "UmFYu[oeNKNHyGWEWBV[tSbIM{WXb0a#V?j[",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Ruiru",
+    "createdAt": "2025-12-16T03:41:15.862Z",
+    "updatedAt": "2026-06-03T15:28:19.420Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 46
+  },
+  {
+    "id": "02f5d1dd-2712-4481-a9db-b80695bbbcf2",
+    "name": "Gwa Kairu, Ruiru",
+    "slug": "gwa-kairu-ruiru",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/fd7d133c-6eca-40ee-b500-4d58fd28525d-2_small.webp",
+    "imageBlurHash": "UVHB#%t7tPxwGKfl-nt8-qofxsjDxYR.R+Rh",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Gwa Kairu",
+    "createdAt": "2025-12-16T03:40:29.701Z",
+    "updatedAt": "2026-06-03T15:28:15.189Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 10
+  },
+  {
+    "id": "fa367179-a77f-4162-8589-fa3efe2825bd",
+    "name": "Kihunguro",
+    "slug": "kihunguro",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/306ce67c-197c-4cdc-905d-de8a2bccc3f6-Kihunguro_small.webp",
+    "imageBlurHash": "U+I=7N%2ogofyZxtoffkx^t7V@ofWBjZWAoL",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Kihunguro",
+    "createdAt": "2025-12-16T03:40:01.670Z",
+    "updatedAt": "2026-06-03T15:28:24.740Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 27
+  },
+  {
+    "id": "b0db7b0b-bd8a-47b8-9daa-0f6fb1c599bd",
+    "name": "Kimbo",
+    "slug": "kimbo",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/19e98f11-3e23-4f99-833a-91896422f12c-2_small.webp",
+    "imageBlurHash": "UYHxQv%MxvbcBtt7t7j]-qxuRjoeems;jEWB",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Kimbo",
+    "createdAt": "2025-12-16T03:39:49.621Z",
+    "updatedAt": "2026-06-03T15:28:21.446Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 29
+  },
+  {
+    "id": "b67d8081-6a69-4696-b34b-462fd738a38a",
+    "name": "Junction",
+    "slug": "junction",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/4737aa62-faa8-40a8-9c8b-4476232b0e3f-20260325_115752649_iOS_small.webp",
+    "imageBlurHash": "UcIz^[OGENofK--psot6b{Rkadxa=|WANFf+",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2025-12-16T03:39:25.352Z",
+    "updatedAt": "2026-07-20T16:50:30.325Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 3
+  },
+  {
+    "id": "7aca4c80-bf61-4084-b56f-73f59d6713a0",
+    "name": "Matangi",
+    "slug": "matangi",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/a064751a-09e9-42b0-a5f3-0c090424c837-20260325_114222207_iOS_small.webp",
+    "imageBlurHash": "UeEf:DtRt6ogO_t5t6j[I9s+jtj?M{bIWUt6",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "",
+    "createdAt": "2025-12-16T03:38:21.357Z",
+    "updatedAt": "2026-07-20T16:45:20.621Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 31
+  },
+  {
+    "id": "66f4981c-85ce-4f63-bef7-d623ed0e4553",
+    "name": "Kamakis",
+    "slug": "kamakis",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/01baa7dd-0cab-405c-826e-bb299dd54b6e-22_small.webp",
+    "imageBlurHash": "UyCZ}1%2t7jYTOkCfij[R=kBjYogV[Rjaya~",
+    "subRegionId": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+    "description": "Kamakis",
+    "createdAt": "2025-12-16T03:38:03.615Z",
+    "updatedAt": "2026-06-03T15:28:18.760Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "3ab34b21-0f2c-4d09-bf1b-07efa3ce972e",
+      "name": "Ruiru"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 41
+  },
+  {
+    "id": "f1bd1a04-220b-4252-bf6f-2fc271c8d27e",
+    "name": "Witeithie",
+    "slug": "witeithie",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/d50bd6c7-b59e-4e65-a237-e20603dcbfad-2_small.webp",
+    "imageBlurHash": "UfI5ADjFM{WVGKWUn$aenmodRkWBM^s,azax",
+    "subRegionId": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+    "description": "Witeithie",
+    "createdAt": "2025-12-16T03:28:04.754Z",
+    "updatedAt": "2026-06-03T15:28:24.231Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+      "name": "Thika"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 29
+  },
+  {
+    "id": "5ae1fa9a-7a7f-4cca-aec2-6a28891643ed",
+    "name": "Section 9",
+    "slug": "section-9",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/c5ba8dd4-8bc6-4931-8815-692674a04d2f-6_small.webp",
+    "imageBlurHash": "UmF~t5R:o$oht:R:bcogS+WZogWCyFflofaf",
+    "subRegionId": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+    "description": "Section 9",
+    "createdAt": "2025-12-16T03:14:51.555Z",
+    "updatedAt": "2026-06-03T15:28:18.314Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+      "name": "Thika"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 5
+  },
+  {
+    "id": "41d72c22-af31-4ca9-89ef-1f716419a6f5",
+    "name": "Ngoingwa ",
+    "slug": "ngoingwa",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/67983fd8-aa3e-4f97-88d9-f6b4573eb718-1_small.webp",
+    "imageBlurHash": "UoDANAngt3adk]V?t5ocWaoIocodW?j?aya#",
+    "subRegionId": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+    "description": "Ngoingwa",
+    "createdAt": "2025-12-16T03:14:25.967Z",
+    "updatedAt": "2026-06-03T15:28:17.671Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+      "name": "Thika"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 27
+  },
+  {
+    "id": "0598cc53-5ca5-4aea-96eb-5ca9f1ab5e5e",
+    "name": "Jomoko",
+    "slug": "jomoko",
+    "imageUrl": "https://assets.reemioltd.com/areas_images/56e22ec2-2e1c-4039-a3af-7952f678ec57-7_small.webp",
+    "imageBlurHash": "UaFG2|M_M{RkpMkCWFWCitxvNMay%fogM|Rk",
+    "subRegionId": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+    "description": "Jomoko",
+    "createdAt": "2025-12-16T03:13:11.664Z",
+    "updatedAt": "2026-06-03T15:28:15.070Z",
+    "deletedAt": null,
+    "subRegion": {
+      "id": "8709ecfb-28a3-4a80-8df8-1d485a4263c6",
+      "name": "Thika"
+    },
+    "region": {
+      "id": "1ccf6175-ed3a-4f8f-ab99-c6b2ee5c37e6",
+      "name": "Kiambu"
+    },
+    "country": {
+      "id": "635c2f7f-94b2-4176-8c9a-92a9d4925f1a",
+      "name": "Kenya"
+    },
+    "numberOfListing": 23
+  }
+]

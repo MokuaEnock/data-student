@@ -1,0 +1,9 @@
+{
+  "message": "Listing summary fetched successfully",
+  "content": {
+    "totalVacantRentalUnits": 28564,
+    "totalVacantSaleUnits": 85,
+    "successfulPlacements": 1535,
+    "totalUnits": 28649
+  }
+}
